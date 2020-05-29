@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279234809517",
+    "firebase_url": "https://pareez-salon-app.firebaseio.com",
+    "project_id": "pareez-salon-app",
+    "storage_bucket": "pareez-salon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279234809517:android:9368e5f569a37e708ec024",
+        "android_client_info": {
+          "package_name": "com.rishav.pareezsalonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279234809517-gbh5j93fo94aiieutlnj9ht9csfiq2at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.pareezsalonapp",
+            "certificate_hash": "9db809c835f76af3a398ec7b7037d299b9cfd46c"
+          }
+        },
+        {
+          "client_id": "279234809517-af65t81id23r3i7j972nf945sv9kvtj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlg736tzwDIDAfTkjVK1027P9FrSJTwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279234809517-af65t81id23r3i7j972nf945sv9kvtj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
